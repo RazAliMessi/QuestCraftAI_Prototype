@@ -1,2 +1,17 @@
-# QuestCraftAI_Prototype
-Prototype for QuestCraft AI. The Prototype is meant to serve as an AI Co-Pilot for a DnD GM. This Co-Pilot will give the GM realistic suggestions within the scope of the story, and of the characters. It will also allow for stories to be piloted in a complex but fun manner. 
+# QuestCraft AI
+
+A React GM co-pilot for tabletop roleplaying games. Define your world, track NPC traits, load child-friendly mythology lore, and compile structured AI prompts for unexpected player actions.
+
+## Setup
+
+```bash
+npm install
+npm run dev
+```
+
+## Features
+
+- Editable world scenario and character roster
+- Child-friendly Greek mythology lore database
+- AI prompt payload builder with priority rules
+- GM approval queue for suggested trait changes
